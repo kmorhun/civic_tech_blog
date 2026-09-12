@@ -1,15 +1,9 @@
-# Bootstrap starter
 
-Include [Bootstrap](https://getbootstrap.com) CSS and JS via the [jsDelivr CDN](https://www.jsdelivr.com/package/npm/bootstrap).
+### Weekly post:
+- Week number and date
+- Reading/project title and link
+- One relevant image, diagram, screenshot, map, or visualization
+- 300–500 words responding to the week's prompt
+- At least one specific idea or quotation paraphrased from the reading
+- A short connection to your semester civic-technology project
 
-## Edit in browser
-
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/twbs/examples/tree/main/starter?file=index.html)
-
-## Download
-
-```sh
-git clone https://github.com/twbs/examples.git
-cd examples/starter/
-open index.html
-```
