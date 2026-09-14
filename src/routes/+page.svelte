@@ -1,6 +1,7 @@
 <script>
     import Article from "$lib/Article.svelte";
     import articles from "../articles.json";
+    import { resolve } from "$app/paths";
 
 </script>
 
@@ -13,7 +14,7 @@
             reading={a.reading}
             imgsrc={a.imgsrc}
             imgalt={a.imgalt}
-            reflection_url={`civic_tech_blog/week${i + 1}_reflection`}
+            reflection_url={resolve(`/week${i + 1}_reflection`)}
             article_url={a.article_url}
         />
     {/each}
