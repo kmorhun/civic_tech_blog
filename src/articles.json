@@ -1,9 +1,18 @@
 [
     {    
         "title": "Civic vs Social Impact vs Public Interest Tech",
+        "show_reading":true,
         "reading": "McGuinness & Schank, <em>Power to the Public</em>",
         "imgsrc": "stacky.png",
         "imgalt": "The UI of Stacky, an alternative mastodon-based social media platform that I worked on in 2024. There is a central column of posts in the center, and discoverable 'stacks' of related posts that appear along the right column as the user scrolls",
         "article_url": "https://press.princeton.edu/books/hardcover/9780691207759/power-to-the-public"
+    },
+    {    
+        "title": "From ADU Zoning to Civic Technology",
+        "show_reading": false,
+        "reading": "N/A",
+        "imgsrc": "massGIS.png",
+        "imgalt": "The overview choropleth map of Massachusetts towns, colored by which fiscal year their parcel data was last assessed.",
+        "article_url": "https://example.com"
     }
 ]

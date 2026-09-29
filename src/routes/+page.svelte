@@ -16,6 +16,7 @@
             imgalt={a.imgalt}
             reflection_url={resolve(`/week${i + 1}_reflection`)}
             article_url={a.article_url}
+            show_reading={a.show_reading}
         />
     {/each}
 </div>
